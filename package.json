@@ -10,9 +10,9 @@
     "lint": "eslint ."
   },
   "dependencies": {
-    "@bortolilucas/react-native-jitsimeet": "^2.0.2",
+    "@bortolilucas/react-native-jitsimeet": "^2.1.1",
     "react": "17.0.2",
-    "react-native": "0.63.4"
+    "react-native": "0.67.4"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
